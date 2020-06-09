@@ -9,6 +9,7 @@
   - [nestjs 文档](https://docs.nestjs.com/)
   - [nestjs 中文指南](https://docs.nestjs.com)
   - [lodash 文档  -一致性、模块化、高性能的 JavaScript 实用工具库](https://www.lodashjs.com/)
+  - [rxjs 中文指南](https://cn.rx.js.org/)
   - [Eggjs框架 中文文档](https://eggjs.org/zh-cn/intro/quickstart.html)
   - [Midway框架 中文文档](https://midwayjs.org/midway/)
   - [Vue 大屏数据展示组件库](http://datav.jiaminghi.com/)
