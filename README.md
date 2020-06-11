@@ -10,6 +10,7 @@
   - [nestjs 中文指南](https://docs.nestjs.com)
   - [lodash 文档  -一致性、模块化、高性能的 JavaScript 实用工具库](https://www.lodashjs.com/)
   - [rxjs 中文指南](https://cn.rx.js.org/)
+  - [axios 中文网 -易用、简洁且高效的http库](https://cn.rx.js.org/)
   - [Eggjs框架 中文文档](https://eggjs.org/zh-cn/intro/quickstart.html)
   - [Midway框架 中文文档](https://midwayjs.org/midway/)
   - [Vue 大屏数据展示组件库](http://datav.jiaminghi.com/)
@@ -26,6 +27,8 @@
   - [TensorFlow 最新官方文档中文版](https://tensorflow.juejin.im/get_started/)
   - [PyTorch 中文教程 -开源的Python机器学习库](https://pytorch.apachecn.org/)
   - [ApacheCN 学习资源](http://docs.apachecn.org/)
+  - [RESTful API接口设计](https://book.crifan.com/books/http_restful_api/website/)
+  - [整理HTTP后台端的RESTful API方面的知识](https://github.com/crifan/http_restful_api)
   
 - 后端
   - [spring cloud 中文网 -微服务架构集大成者，云计算最佳业务实践](https://www.springcloud.cc/)
