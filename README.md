@@ -56,7 +56,7 @@
 -LMS
   - [Olat是一个基于Web的开源学习管理系统/内容学习管理系统](https://github.com/OpenOLAT/OpenOLAT)
   - [基于OLAT/OpenOLAT的在线学习和培训系统](https://github.com/huihoo/olat)
-
-  
+  - [IMS QTI 2.1评估交付引擎和Java开发库（JQTI +）](https://github.com/davemckain/qtiworks)
+  - [text2qti  -Create quizzes in QTI format for Canvas from Markdown-based plain text](https://github.com/gpoore/text2qti)
 
       
