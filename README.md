@@ -50,8 +50,10 @@
   - [FIS3 , 为你定制的前端工程构建工具](http://fis.baidu.com/fis3/index.html)
   - [LaTeX 数学公式编辑](https://mathpix.com/)
   - [hcache linux缓存占用查看工具](https://github.com/silenceshell/hcache)
-  - [Element 中文文档](https://element.eleme.cn/#/zh-CN)
-  - [Element 中文文档](https://element.eleme.cn/#/zh-CN)
+  - [UEditor  -rich text 富文本编辑器](https://github.com/fex-team/ueditor)
+  - [ueditor for nodejs 可以让你的UEditor支持nodejs](https://github.com/netpi/ueditor)
+  - [ueditor for nodejs 可以让你的UEditor支持nodejs](https://github.com/netpi/ueditor)
+  
 
 -LMS
   - [Olat是一个基于Web的开源学习管理系统/内容学习管理系统](https://github.com/OpenOLAT/OpenOLAT)
