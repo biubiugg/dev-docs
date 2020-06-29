@@ -11,6 +11,7 @@
   - [lodash 文档  -一致性、模块化、高性能的 JavaScript 实用工具库](https://www.lodashjs.com/)
   - [rxjs 中文指南](https://cn.rx.js.org/)
   - [axios 中文网 -易用、简洁且高效的http库](https://cn.rx.js.org/)
+  - [axios github](https://github.com/axios/axios)
   - [Eggjs框架 中文文档](https://eggjs.org/zh-cn/intro/quickstart.html)
   - [Midway框架 中文文档](https://midwayjs.org/midway/)
   - [Vue 大屏数据展示组件库](http://datav.jiaminghi.com/)
@@ -54,7 +55,8 @@
   - [UEditor  -rich text 富文本编辑器](https://github.com/fex-team/ueditor)
   - [ueditor for nodejs 可以让你的UEditor支持nodejs](https://github.com/netpi/ueditor)
   - [Arthas/Alibaba Java诊断利器Arthas](https://github.com/alibaba/arthas)
-  
+  - [主力于Java的唯品会，关于Java的一些小家底](https://github.com/vipshop/vjtools)
+  - [BTrace - Java平台跟踪工具，追踪代码](https://github.com/vipshop/vjtools)
 
 -LMS
   - [Olat是一个基于Web的开源学习管理系统/内容学习管理系统](https://github.com/OpenOLAT/OpenOLAT)
