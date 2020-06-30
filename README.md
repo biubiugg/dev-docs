@@ -58,6 +58,7 @@
   - [Arthas/Alibaba Java诊断利器Arthas](https://github.com/alibaba/arthas)
   - [主力于Java的唯品会，关于Java的一些小家底](https://github.com/vipshop/vjtools)
   - [BTrace - Java平台跟踪工具，追踪代码](https://github.com/vipshop/vjtools)
+  - [基于Vue框架构建的github数据可视化平台](https://github.com/HongqingCao/GitDataV)
 
 -LMS
   - [Olat是一个基于Web的开源学习管理系统/内容学习管理系统](https://github.com/OpenOLAT/OpenOLAT)
