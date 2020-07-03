@@ -58,6 +58,10 @@
   - [Arthas/Alibaba Java诊断利器Arthas](https://github.com/alibaba/arthas)
   - [主力于Java的唯品会，关于Java的一些小家底](https://github.com/vipshop/vjtools)
   - [BTrace - Java平台跟踪工具，追踪代码](https://github.com/vipshop/vjtools)
+  - [谷歌学术镜像](https://ac.scmor.com/)
+  - [清华大学开源软件镜像站](https://mirrors.tuna.tsinghua.edu.cn/)
+  - [国内外学术论文网站与常用的学术搜索引擎推荐](https://www.jianshu.com/p/20c33b0ef225)
+  - [国内最强 Chrome 商店镜像, 你想要得插件都有](https://pictureknow.com/extensions)
   - [基于Vue框架构建的github数据可视化平台](https://github.com/HongqingCao/GitDataV)
 
 -LMS
