@@ -43,6 +43,7 @@
 - ID生成服务
   - [Twitter的分布式自增ID算法snowflake (Java版)](https://www.cnblogs.com/relucent/p/4955340.html)
   - [Leaf：美团分布式ID生成服务开源](https://tech.meituan.com/2019/03/07/open-source-project-leaf.html)
+  - [Leaf：GITHUB 美团分布式ID生成服务开源](https://github.com/Meituan-Dianping/Leaf/blob/master/README_CN.md)
   - [百度：UidGenerator是Java实现的, 基于Snowflake算法的唯一ID生成器](https://github.com/baidu/uid-generator/blob/master/README.zh_cn.md)
   
 - 示例
