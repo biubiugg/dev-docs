@@ -40,7 +40,7 @@
   - [SpringAll 学习spring 各类框架](https://github.com/wuyouzhuguli/SpringAll)
   - [Drools 中文文档 -业务决策自动化](http://ksoong.org/drools-examples/content/)
   
- - ID 生成服务 
+- ID生成服务
   - [Twitter的分布式自增ID算法snowflake (Java版)](https://www.cnblogs.com/relucent/p/4955340.html)
   - [Leaf：美团分布式ID生成服务开源](https://tech.meituan.com/2019/03/07/open-source-project-leaf.html)
   - [百度：UidGenerator是Java实现的, 基于Snowflake算法的唯一ID生成器](https://github.com/baidu/uid-generator/blob/master/README.zh_cn.md)
