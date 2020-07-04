@@ -29,6 +29,9 @@
   - [ApacheCN 学习资源](http://docs.apachecn.org/)
   - [RESTful API接口设计](https://book.crifan.com/books/http_restful_api/website/)
   - [整理HTTP后台端的RESTful API方面的知识](https://github.com/crifan/http_restful_api)
+
+- VUE小工具
+   - [Vue缓存 - plugin for work with local storage, session storage and memory storage from Vue context](https://github.com/RobinCK/vue-ls)
   
 - 后端
   - [spring cloud 中文网 -微服务架构集大成者，云计算最佳业务实践](https://www.springcloud.cc/)
@@ -36,7 +39,12 @@
   - [学习并实战 spring boot 的项目 -Spring Boot Demo ](https://github.com/xkcoding/spring-boot-demo)
   - [SpringAll 学习spring 各类框架](https://github.com/wuyouzhuguli/SpringAll)
   - [Drools 中文文档 -业务决策自动化](http://ksoong.org/drools-examples/content/)
-
+  
+ - ID 生成服务 
+  - [Twitter的分布式自增ID算法snowflake (Java版)](https://www.cnblogs.com/relucent/p/4955340.html)
+  - [Leaf：美团分布式ID生成服务开源](https://tech.meituan.com/2019/03/07/open-source-project-leaf.html)
+  - [百度：UidGenerator是Java实现的, 基于Snowflake算法的唯一ID生成器](https://github.com/baidu/uid-generator/blob/master/README.zh_cn.md)
+  
 - 示例
   - [mall-swarm是一套微服务商城系统](https://github.com/macrozheng/mall-swarm)
   - [百亿级中台解决方案; 长期主义；学习、沉淀、交流](https://github.com/wolforest/wolf)
@@ -63,7 +71,13 @@
   - [国内外学术论文网站与常用的学术搜索引擎推荐](https://www.jianshu.com/p/20c33b0ef225)
   - [国内最强 Chrome 商店镜像, 你想要得插件都有](https://pictureknow.com/extensions)
   - [基于Vue框架构建的github数据可视化平台](https://github.com/HongqingCao/GitDataV)
-
+  - [Nokogiri是Ruby的gem,常用来解析XML/HTML,爬取网络数据等](https://github.com/sparklemotion/nokogiri)
+  
+-数据库
+  - [mongodb 菜鸟教程](https://www.runoob.com/mongodb/mongodb-tutorial.html)
+  - [Redis 菜鸟教程](https://www.runoob.com/redis/redis-tutorial.html)
+  - [Cassandra 教程](https://www.w3cschool.cn/cassandra/)
+  
 -LMS
   - [Olat是一个基于Web的开源学习管理系统/内容学习管理系统](https://github.com/OpenOLAT/OpenOLAT)
   - [基于OLAT/OpenOLAT的在线学习和培训系统](https://github.com/huihoo/olat)
