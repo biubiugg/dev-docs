@@ -32,6 +32,11 @@
 
 - VUE小工具
    - [Vue缓存 - plugin for work with local storage, session storage and memory storage from Vue context](https://github.com/RobinCK/vue-ls)
+
+- 无服务Serverless架构
+   - [Midway FAAS - A simple and lightweight serverless framework](https://github.com/midwayjs/midway-faas)
+   - [Midway Serverless 使用文档](https://www.yuque.com/midwayjs/faas)
+   - [Serverless Core module for Nest framework (node.js) ](https://github.com/nestjs/serverless-core)
   
 - 后端
   - [spring cloud 中文网 -微服务架构集大成者，云计算最佳业务实践](https://www.springcloud.cc/)
@@ -84,5 +89,3 @@
   - [基于OLAT/OpenOLAT的在线学习和培训系统](https://github.com/huihoo/olat)
   - [IMS QTI 2.1评估交付引擎和Java开发库（JQTI +）](https://github.com/davemckain/qtiworks)
   - [text2qti  -Create quizzes in QTI format for Canvas from Markdown-based plain text](https://github.com/gpoore/text2qti)
-
-      
