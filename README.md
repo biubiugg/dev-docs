@@ -64,6 +64,8 @@
 
 
 -工具
+  - [VS Code开发技巧集锦](https://zhuanlan.zhihu.com/p/34989844)
+  - [快速使用 vscode 进行 Java 编程](https://zhuanlan.zhihu.com/p/35176928)
   - [FIS3 , 为你定制的前端工程构建工具](http://fis.baidu.com/fis3/index.html)
   - [LaTeX 数学公式编辑](https://mathpix.com/)
   - [hcache linux缓存占用查看工具](https://github.com/silenceshell/hcache)
