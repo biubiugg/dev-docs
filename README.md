@@ -45,6 +45,7 @@
   - [SpringAll 学习spring 各类框架](https://github.com/wuyouzhuguli/SpringAll)
   - [Drools 中文文档 -业务决策自动化](http://ksoong.org/drools-examples/content/)
   - [Micronaut 现代的，基于JVM的全栈Java框架，旨在用于构建模块化，易于测试的JVM应用程序](https://github.com/micronaut-projects/micronaut-core)
+  - [dropwizard 用于构建可用于生产环境的RESTful Web服务](https://github.com/dropwizard/dropwizard)
   
 - ID生成服务
   - [Twitter的分布式自增ID算法snowflake (Java版)](https://www.cnblogs.com/relucent/p/4955340.html)
