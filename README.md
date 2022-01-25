@@ -95,3 +95,7 @@
   - [基于OLAT/OpenOLAT的在线学习和培训系统](https://github.com/huihoo/olat)
   - [IMS QTI 2.1评估交付引擎和Java开发库（JQTI +）](https://github.com/davemckain/qtiworks)
   - [text2qti  -Create quizzes in QTI format for Canvas from Markdown-based plain text](https://github.com/gpoore/text2qti)
+
+-其他
+  - [中文手写字库制作网站](http://www.flexifont.com/flexifont-chn/home/)
+  - [英文手写字库制作网站](https://www.calligraphr.com/en/)
