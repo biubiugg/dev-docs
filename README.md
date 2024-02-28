@@ -5,7 +5,7 @@
 
 - 前端资源
   - [Vuejs 中文文档](https://cn.vuejs.org/)
-  - [Node.js v14.4.0 文档](http://nodejs.cn/api/)
+  - [Node.js 文档](http://nodejs.cn/api/)
   - [nestjs 文档](https://docs.nestjs.com/)
   - [nestjs 中文指南](https://docs.nestjs.com)
   - [lodash 文档  -一致性、模块化、高性能的 JavaScript 实用工具库](https://www.lodashjs.com/)
